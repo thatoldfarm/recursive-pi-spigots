@@ -3,6 +3,10 @@ A method for finding 'spigots' in the decimal expansion of pi.
 
 ---
 
+Further reading: https://github.com/thatoldfarm/recursive-pi/blob/main/README.md
+
+---
+
 ```python
 #!/usr/bin/env python3
 """
