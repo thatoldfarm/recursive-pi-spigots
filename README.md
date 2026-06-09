@@ -7,6 +7,13 @@ Further reading: https://github.com/thatoldfarm/recursive-pi/blob/main/README.md
 
 ---
 
+Steps:
+
+- Generate the desired amount of digits with the 'generate_pi_digits.py'.
+
+- Use the 'pi_spigot_finder.py' script to find twelve digit spigots.
+
+
 ```python
 #!/usr/bin/env python3
 """
