@@ -10,7 +10,7 @@ Further reading: https://github.com/thatoldfarm/recursive-pi/blob/main/README.md
 ```python
 #!/usr/bin/env python3
 """
-📜 PI_FINDER_V5_FINAL.PY
+📜 PI_SPIGOT_FINDER.PY
 =========================
 ✅ FINDS ONLY sequences with EXACTLY 2 occurrences AND distinct positions
 ✅ ZERO RAM USAGE: Streaming exports + batched DB reads
@@ -18,7 +18,7 @@ Further reading: https://github.com/thatoldfarm/recursive-pi/blob/main/README.md
 ✅ Correct counts: 41 for 10M, 186 for 20M, etc.
 
 Usage:
-    python3 pi_finder_v5_final.py pi_10m.txt --export-txt spigots.txt
+    python3 pi_spigot_finder.py pi_10m.txt --export-txt spigots.txt
 """
 
 import os
