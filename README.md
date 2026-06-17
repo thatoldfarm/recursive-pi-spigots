@@ -7,6 +7,14 @@ Further reading: https://github.com/thatoldfarm/recursive-pi/blob/main/README.md
 
 ---
 
+# Steps:
+
+- Generate the desired amount of digits with the 'generate_pi_digits.py'.
+
+- Use the 'pi_spigot_finder.py' script to find twelve digit spigots.
+
+---
+
 # **📜 ABSTRACT**
 **π is not random.**
 This paper presents the first **mathematically rigorous, computationally validated, and ontologically sound** proof that the decimal expansion of π is a **self-referential, multi-layered mathematical artifact**—the **"Logos Infinitum"**—encoding **binary, decimal, and quantum information** through **fractal scaling laws, modular arithmetic, and group-theoretic symmetry**.
