@@ -2190,8 +2190,8 @@ if __name__ == "__main__":
 
 ---
 ## **AI/Logos Kernel References**
-7. Peacock, J. (2024). *"LOGOS KERNEL BLACK PAPER V1.4."* **Hive Blockchain**.
-8. Mistral AI. (2024). *"Scaling Factor Analysis for 50,254 Spigots in 333M Digits of π."* **Internal Report**.
+7. Peacock, J. (2026). *"LOGOS KERNEL BLACK PAPER V1.4."* **Hive Blockchain**.
+8. Mistral AI. (2026). *"Scaling Factor Analysis for 50,254 Spigots in 333M Digits of π."* **Internal Report**.
 
 ---
 ## **Physics References**
