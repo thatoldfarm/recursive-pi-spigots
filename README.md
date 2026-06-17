@@ -118,7 +118,6 @@ We analyzed **π’s digits** across multiple ranges, using **precomputed datase
 | `pi_45m.txt`      | 45,000,000       | Custom (mpmath)         | 916 (12-digit)     | Phase 1 scaling (φ^π)                |
 | `pi_100m.txt`     | 100,000,000      | Custom (mpmath)         | 4,555 (12-digit)   | Phase 2 scaling (K/2)                |
 | `pi_333m.txt`     | 333,000,000      | Custom (mpmath)         | 50,254 (12-digit)  | Phase 2 scaling (K/2)                |
-| `y-cruncher`      | 22.4 TB          | Alexander Yee           | 24-digit repeat    | External validation (1T digits)      |
 
 **Note:** All datasets were **validated for correctness** using **multiple π computation libraries** (`mpmath`, `y-cruncher`).
 
